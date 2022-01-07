@@ -1,0 +1,144 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+  padding-left: 25px;
+}
+
+span {
+  color: tomato;
+}
+
+.left-bar {
+  border-left: 5px solid darkslateblue;
+  font-family: "Lora", serif;
+}
+
+.mission-title {
+  display: flex;
+  margin-top: 50px;
+}
+
+.half-width {
+  width: 40%;
+  margin: 20px 80px;
+  padding: 0px 10px;
+}
+
+#man-pic {
+  width: 100%;
+}
+
+.same-button {
+  background-color: dodgerblue;
+  display: inline-block;
+  margin-top: 50px;
+  text-decoration: none;
+
+  padding: 15px 35px;
+  color: white;
+  border-radius: 4px;
+}
+
+p {
+  color: dimgray;
+  margin: 30px 0px;
+}
+
+.mission-vision-goals {
+  display: flex;
+  margin: 30px 80px;
+}
+
+.mission {
+  background-color: rgb(255, 231, 231);
+  border-radius: 15px;
+  margin: 20px;
+  padding: 25px;
+}
+
+.vision {
+  background-color: rgb(206, 245, 206);
+  border-radius: 15px;
+  margin: 20px;
+  padding: 25px;
+}
+
+.goals {
+  background-color: rgb(233, 233, 253);
+  border-radius: 15px;
+  margin: 20px;
+  padding: 25px;
+}
+
+.my-mission {
+  text-align: center;
+  font-size: 40px;
+}
+
+.mission-vision-goals img {
+  width: 30%;
+}
+
+.dev-limits {
+  display: flex;
+  margin: 70px 90px;
+}
+
+.dev-limits-img img {
+  width: 100%;
+}
+
+.dev-limits-img {
+  margin-right: 50px;
+}
+
+.know-global{
+  display: flex;
+  margin: 70px 90px;
+}
+
+.know-global img {
+  width: 100%;
+}
+
+.crypto {
+  margin: 70px 90px;
+  background-image: url(image/shape-4.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+.cp {
+  font-size: 40px;
+  text-align: left;
+}
+
+.Crypto-App {
+  display: flex;
+}
+
+.Crypto- {
+  margin: 50px 70px;
+}
+.crypto-align {
+  text-align: center;
+}
+
+footer {
+  background-color: rgb(15, 14, 14);
+  text-align: center;
+  padding: 10px 0px;
+}
+
+.footer-p {
+  color: white;
+  font-size: 30px;
+  font: italic;
+  font-family: "Lora", serif;
+  font-style: italic;
+}
